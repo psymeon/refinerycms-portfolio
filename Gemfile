@@ -5,7 +5,7 @@ gemspec
 git 'git://github.com/refinery/refinerycms.git' do
   gem 'refinerycms', '~> 2.1.0.dev'
   group :development, :test do
-    gem 'refinerycms-testing', '~> 2.1.0.dev'
+    gem 'refinerycms-testing', '~> 2.1.0'
   end
 end
 
